@@ -19,4 +19,6 @@ Recently, a newer version of the shared response model was implemented called th
 
 This github repository will go into detail about how the robust shared response model is working by implementing the code in R. This post will not include using EEG for the RSRM. That, after all, is for our next semester in grad school. We did, however, find the RSRM algorithm to be quite beautiful so we wanted to share how it works with the student teacher community. Many readers may find that the algorithm is multifunctional and can be used across domains. In the end we will show how the RSRM is capable of extracting components from multiple subjects with a couple shared sine-waves, with noise added for realism.
 
-To see our full blog post, look here: [RSRM Overview](file:///Users/gabrielyohe/DataScience/Fall/Mining/final_project/images/final_project--4-.html)
+This is a representation of the RSRM that shows the demsionality of the features:
+![RSRM](rsrm_diagram.png)
+
